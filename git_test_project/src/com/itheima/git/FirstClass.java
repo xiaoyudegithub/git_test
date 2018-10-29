@@ -14,10 +14,12 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        //hello
     }
 
     public void test(){
 
         System.out.println("爸爸");
+        System.out.println("mama");
     }
 }
